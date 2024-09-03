@@ -1,3 +1,5 @@
+#Voila ma façon de ressoudre les exercices , c'est mes premier code python merci d'être indulgent ! 
+
 def exercice_1():
     # Exercice 1: Ecrire un programme en langage Python qui demande à l'utilisateur de saisir son nom et de lui afficher son nom avec un message de bienvenue !
     nom = input("Quel est votre nom? ")
